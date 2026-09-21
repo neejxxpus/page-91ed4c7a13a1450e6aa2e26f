@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "35a72bf3adc4678d074c0c95",
+  "owner": "neejxxpus",
+  "repo": "page-91ed4c7a13a1450e6aa2e26f",
+  "title": "诚信vpn",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "91ed4c7a13a1450e6aa2e26f",
+      "a": "诚信vpn",
+      "b": "稳定全球clash加速器",
+      "entity": "诚信vpn",
+      "brand": "诚信vpn",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "99b9b09147e74cca59dcfb1e1ac242796b7ac730e9c086c6981d5eb92aa5b98d",
+      "content": {
+        "primary_entity": "诚信vpn",
+        "keyword1": "诚信vpn",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择合适客户端，导入订阅后即可连接使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，配置订阅后开始全球连接。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档订阅，分别对应 3 台、5 台、20 台设备并发与 100GB、300GB、1000GB 月流量，覆盖流媒体解锁、IPLC 专线游戏优化与企业定制路由等场景。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与使用周期三个角度，可以快速判断哪一档套餐更适合自己。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备与每月 100GB 流量，适合手机与笔记本轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备与每月 300GB 流量，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备与每月 1000GB 流量，适合小组或企业多端协作。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TITLE_2": "按流量需求选",
+          "AI_FEATURE_TITLE_3": "按使用周期选",
+          "AI_GUIDE_INTRO": "先确定设备数量与流量需求，再完成订阅配置与连接测试。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "诚信vpn提供多档订阅套餐，覆盖不同设备数量与流量需求，支持常见客户端导入订阅使用，适合日常浏览、流媒体观看与游戏加速场景。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数量区分",
+          "AI_HIGHLIGHT_2": "月付与年付两种计费周期",
+          "AI_HIGHLIGHT_3": "支持常见客户端导入订阅",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，年付 ¥150；旗舰版 ¥35/月，年付 ¥350；团队版 ¥85/月，年付 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线设备数量与每月流量需求，在基础版、旗舰版、团队版之间选择合适套餐，月付灵活、年付更省。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "确认自己的设备系统与客户端类型，查看对应适配要求，确保订阅可以正常导入。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "按照所用客户端的订阅导入说明完成配置，保存后连接节点测试网络是否可用。",
+          "AI_STEP_TITLE_3": "依客户端配置订阅",
+          "AI_VISUAL_TITLE": "诚信vpn套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "诚信vpn 的套餐有什么区别？",
+          "AI_FAQ_ANSWER_1": "三档套餐主要区别在每月流量、同时在线设备数和线路类型。基础版适合少量设备日常使用，旗舰版增加 IPLC 专线和流媒体解锁，团队版面向高流量多设备场景。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超过数量限制时，需要先断开其他设备的连接。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_3": "在客户端中复制订阅链接，按照对应客户端文档的导入步骤操作即可。不同设备客户端界面略有差异，建议以客户端内说明为准。",
+          "AI_FAQ_QUESTION_4": "年付和月付哪个更划算？",
+          "AI_FAQ_ANSWER_4": "年付价格低于按月支付总额。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用可选年付。",
+          "AI_FAQ_QUESTION_5": "支持哪些设备使用？",
+          "AI_FAQ_ANSWER_5": "可在常见的电脑、手机客户端上配置使用，部分路由器也可通过订阅导入。不同平台客户端功能有差异，建议按设备类型选择对应客户端。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "abssa.cn",
+    "host": "abssa.cn"
+  },
+  "file_hashes": {
+    "index.html": "81a69fc66591a86b0ab42ec6d0e94a0f34fb25e65fc4abfbbc417b6f7a265f52",
+    "sitemap.xml": "0b0be9c5df705d4e3ee1eda60d16004c62dac650f957b9731f91ddfd0d5cea1d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2d8f506a319c5512875c10c12c2134f881f92ca4cbca280abb6566662d8aba52",
+    "robots.txt": "b308128f935d6bb851804687b7a7f67d9c50c73cead12a89b65cf55e4a4afc54",
+    "f8eeef9ce172369bf8cd5ee203b9d07a.txt": "6e907518c91450ad2bd29a28af288a1c0734cef986dc3ebc73b1f8f34b4c1186"
+  },
+  "revision": "1164ee5a98b73d9934f8104ec12398c628d355d967481335b01fe2763a6fe1e5"
+}
